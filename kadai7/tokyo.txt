@@ -1,0 +1,6 @@
+Shinjuku Tokyo
+Shinjuku Shibuya 5 Yotsuya 5
+Shibuya Shinagawa 12
+Shinagawa Tokyo 12
+Yotsuya Ochanomizu 5
+Ochanomizu Tokyo 4

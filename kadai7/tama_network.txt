@@ -1,0 +1,18 @@
+Minami-Osawa Machida
+Keio-Nagayama Keio-TamaCenter 3 Odakyu-Nagayama 4
+Keio-TamaCenter Keio-Horinouchi 2 Matsugaya 7 Odakyu-TamaCenter 5
+Keio-Horinouchi Minami-Osawa 2
+Minami-Osawa Tamasakai 2
+Tamasakai Hashimoto 3
+Hashimoto Aihara 3 Sagamihara 3 Minami-Hashimoto 3
+Aihara Hachioji-Minamino 3
+Hachioji-Minamino Katakura 2
+Katakura Hachioji 3
+Sagamihara Fuchinobe 3
+Fuchinobe Kobuchi 3
+Kobuchi Machida 3
+Minami-Hashimoto Kamimizo 3
+Matsugaya Chuo-Univ 3
+Odakyu-TamaCenter Odakyu-Nagayama 3
+Odakyu-Nagayama Shin-Yurigaoka 9
+Shin-Yurigaoka Machida 11
