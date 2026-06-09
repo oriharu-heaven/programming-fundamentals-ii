@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>マインスイーパ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <h1>マインスイーパ</h1>
+
+    <div id="controls">
+      <label>難易度:
+        <select id="difficulty">
+          <option value="easy">初級 (9×9, 地雷10)</option>
+          <option value="medium" selected>中級 (16×16, 地雷40)</option>
+          <option value="hard">上級 (30×16, 地雷99)</option>
+        </select>
+      </label>
+      <button id="new-game">新しいゲーム</button>
+    </div>
+
+    <div id="status-bar">
+      <span id="mine-count">💣 <span id="mines-left">40</span></span>
+      <button id="reset-btn">🙂</button>
+      <span id="timer">⏱ <span id="time">0</span></span>
+    </div>
+
+    <div id="board"></div>
+
+    <div id="message" class="hidden"></div>
+  </div>
+
+  <script src="minesweeper.js"></script>
+</body>
+</html>
